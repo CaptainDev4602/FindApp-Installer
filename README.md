@@ -1,6 +1,6 @@
 # FindApp-Installer
 FindAppInstaller - Solve the Linux Package Fragmentation Problem
-Copyright (C) 2025  CaptainDev4602
+Copyright (C) 2026  CaptainDev4602
 FindAppInstaller
 it was made to support users who are coming from Windows 10 as we all know Microsoft is going to  support for Windows 10
 in October 15th 2025 many users will stay on the Windows 10 and some will migrate to Linux this is an apt Wrapper that makes Simpler
